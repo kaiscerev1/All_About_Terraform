@@ -1,0 +1,5 @@
+[submodule "landing-zone-aws"]
+	path = landing-zone-aws
+	url = git@github.com:kaiscerev1/landing-zone-aws.git
+	branch = main
+	
